@@ -76,7 +76,7 @@ Press **Q** to exit.
 Add a screenshot of the program working:
 
 ```markdown
-![Face Detection Demo](images/demo.png)
+![Face Detection Demo](face detection.jpeg)
 ```
 
 ## 🔮 Future Improvements
